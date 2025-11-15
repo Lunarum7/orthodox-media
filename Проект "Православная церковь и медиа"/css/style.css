@@ -1,0 +1,11 @@
+body{font-family:Georgia,serif;margin:0;background:#f7f5f2;color:#222;}
+header{background:#e3dfd8;padding:20px;border-bottom:1px solid #ccc;}
+nav a{margin-right:20px;color:#333;text-decoration:none;font-weight:bold;}
+.content{width:75%;margin:auto;padding:40px 0;line-height:1.7;}
+.card {
+    background: #fff;
+    padding: 25px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+    margin-bottom: 40px;
+}
